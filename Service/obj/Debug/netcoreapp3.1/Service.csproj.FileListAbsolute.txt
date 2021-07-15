@@ -1,0 +1,16 @@
+C:\Users\josue\source\repos\SimpleLibrary\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\josue\source\repos\SimpleLibrary\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\josue\source\repos\SimpleLibrary\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\josue\source\repos\SimpleLibrary\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\josue\source\repos\SimpleLibrary\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\SimpleLibrary\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\josue\source\repos\SimpleLibrary\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\SimpleLibrary\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\josue\source\repos\SimpleLibrary\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\josue\source\repos\SimpleLibrary\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\josue\source\repos\SimpleLibrary\Service\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\josue\source\repos\SimpleLibrary\Service\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\josue\source\repos\SimpleLibrary\Service\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\josue\source\repos\SimpleLibrary\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\josue\source\repos\SimpleLibrary\Service\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\josue\source\repos\SimpleLibrary\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CopyComplete
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\josue\source\repos\SimpleLibrary\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb

@@ -1,0 +1,9 @@
+C:\Users\josue\source\repos\SimpleLibrary\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\josue\source\repos\SimpleLibrary\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\josue\source\repos\SimpleLibrary\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\josue\source\repos\SimpleLibrary\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\josue\source\repos\SimpleLibrary\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\josue\source\repos\SimpleLibrary\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\josue\source\repos\SimpleLibrary\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\SimpleLibrary\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\josue\source\repos\SimpleLibrary\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
